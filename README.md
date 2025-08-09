@@ -1,5 +1,4 @@
-# R-artBit🐰
-## Golang Pixel Art Maker Code Template
+# R-artBit🐰 Golang Pixel Art Maker
 
 A lightweight pixel art editor built with Go using [raylib-go](https://github.com/gen2brain/raylib-go). No external UI dependencies. Designed for quick sketching, color experimentation with basic single-layer canvas.
 
